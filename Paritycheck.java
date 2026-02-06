@@ -1,3 +1,4 @@
+//check for even/odd
 import java.util.Scanner;
 
 class Paritycheck {
