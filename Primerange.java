@@ -1,3 +1,4 @@
+//to find all prime numbers between two numbers
 import java.util.Scanner;
 class Primerange
 {
