@@ -1,3 +1,4 @@
+//Calculate net Salary
 import java.util.Scanner;
 
 class Salarycalc
