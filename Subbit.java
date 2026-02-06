@@ -1,3 +1,4 @@
+//subtraction without using - operator
 import java.util.Scanner;
 
 class Subbit {
