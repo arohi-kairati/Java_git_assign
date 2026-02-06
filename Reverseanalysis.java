@@ -1,3 +1,4 @@
+//reverse, no.of digits and sum of digits of a number
 import java.util.Scanner;
 
 class Reverseanalysis
