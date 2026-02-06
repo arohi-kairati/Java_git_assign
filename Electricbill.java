@@ -1,3 +1,4 @@
+// to calculate the electric bill
 import java.util.Scanner;
 
 class Electricbill
