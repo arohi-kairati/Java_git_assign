@@ -1,3 +1,4 @@
+//Smart billing
 import java.util.Scanner;
 class Smartbill
 {
