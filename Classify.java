@@ -1,3 +1,4 @@
+// check for positive/negative ,even/odd, divisibility by 5 & 7.
 import java.util.Scanner;
 
 class Classify
