@@ -1,3 +1,4 @@
+//Withdrawal success of failure
 import java.util.Scanner;
 
 class Withdrawal
