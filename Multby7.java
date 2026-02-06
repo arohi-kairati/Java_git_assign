@@ -1,3 +1,4 @@
+// multiplying the number by 7 without using *
 import java.util.Scanner;
 
 class Multby7 {
