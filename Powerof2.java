@@ -1,3 +1,4 @@
+//to check if the number is a power of 2
 import java.util.Scanner;
 
 class Powerof2 {
