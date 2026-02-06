@@ -1,3 +1,4 @@
+//Division without '/' operator
 import java.util.Scanner;
 
 class Divbit {
