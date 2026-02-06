@@ -1,3 +1,4 @@
+//swap without using temporary variable(use xor)
 import java.util.Scanner;
 
 class Swapxor {
