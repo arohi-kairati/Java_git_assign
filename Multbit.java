@@ -1,3 +1,4 @@
+// multiplication without using * operator
 import java.util.Scanner;
 
 class Multbit {
