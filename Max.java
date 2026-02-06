@@ -1,3 +1,4 @@
+// to find maximum number without using comparison operators.
 import java.util.Scanner;
 
 class Max {
