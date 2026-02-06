@@ -1,3 +1,4 @@
+// number pattern
 import java.util.Scanner;
 class Numberpattern
 {
